@@ -5,15 +5,20 @@
 ## ลิงก์สำคัญ
 
 - หน้า Repository: https://github.com/Theerawa21/green-passport-st-theresa
-- หน้า GitHub Pages หลังเปิดใช้งาน: https://theerawa21.github.io/green-passport-st-theresa/
+- หน้าเว็บ GitHub Pages: https://theerawa21.github.io/green-passport-st-theresa/
+- ไฟล์หน้าเว็บบน GitHub: https://github.com/Theerawa21/green-passport-st-theresa/blob/main/index.html
 - Google Sheets ฐานข้อมูล: https://docs.google.com/spreadsheets/d/1CB501XSK9SOA-OsGdDIYqPjxEoUYitKOFKlbpA4yHJ4/edit?usp=sharing
 - หน้าแก้ README: https://github.com/Theerawa21/green-passport-st-theresa/edit/main/README.md
 
-## ไฟล์ที่ควรเพิ่มใน Repository
+## สิ่งที่สร้างไว้ใน GitHub แล้ว
 
-- `Index.html` หน้าเว็บหลักของระบบ
+- `README.md` รวมคำอธิบาย ลิงก์ และวิธีติดตั้ง
+- `index.html` หน้า Landing Page สำหรับเปิดผ่าน GitHub Pages
+
+## ไฟล์ที่ควรเพิ่มต่อใน Repository
+
+- `Index.html` หน้าเว็บหลักฉบับเต็มสำหรับ Google Apps Script
 - `Code.gs` โค้ด Google Apps Script สำหรับเชื่อม Google Sheets
-- `README.md` คำอธิบาย วิธีติดตั้ง และลิงก์สำคัญ
 
 ## วิธีติดตั้งบน Google Apps Script
 
@@ -36,4 +41,4 @@
 
 ## หมายเหตุ
 
-ถ้าใช้งานผ่าน Google Apps Script แนะนำให้ใช้เวอร์ชันที่ deploy จาก Apps Script เป็นหลัก เพราะระบบจะเชื่อมกับ Google Sheets และบันทึกข้อมูลจริงได้ ส่วน GitHub Pages เหมาะสำหรับแสดงหน้าเว็บตัวอย่างหรือใช้เป็นหน้ารวบรวมลิงก์โครงการ
+ถ้าใช้งานผ่าน Google Apps Script แนะนำให้ใช้เวอร์ชันที่ deploy จาก Apps Script เป็นหลัก เพราะระบบจะเชื่อมกับ Google Sheets และบันทึกข้อมูลจริงได้ ส่วน GitHub Pages เหมาะสำหรับแสดงหน้าเว็บแนะนำโครงการหรือใช้เป็นหน้ารวบรวมลิงก์สำคัญ
